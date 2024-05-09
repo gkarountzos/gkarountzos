@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👋 Hello there, I'm George 
+I'm passionate about software development and am currently pursuing my studies in Software Engineering through a program from Essex University. 🎓
 
-<!--
-**gkarountzos/gkarountzos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe in the power of continuous learning, and I'm always eager to expand my knowledge and skills. Whether it's learning new programming languages, exploring different frameworks, or diving into database management and queries, I'm up for the challenge! 💻
 
-Here are some ideas to get you started:
+This is a space where I'll be sharing my projects, experiments, and learnings along my software engineering journey. Feel free to explore, collaborate, and learn together! Let's build amazing things together! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Thirst for knowledge
+I’m currently expanding my knowledge on JavaScript and also diving deep into modern JavaScript frameworks like React and Next, as well as exploring TypeScript for type-safe JavaScript development. 
+
+## Skillset
+* 💻 - HTML, CSS, JavaScript
+  * 🅱️ - Bootstrap
+* 🐘 - PHP
+* 📊 - SQL
+  * ℹ️ - MySQL
+  * 🗃️ - Microsoft Access
+* 🔵 - C#
+  * 🌐 - .NET Framework
+
+### More about me
+⚡ Fun fact: In my free time I produce music(beatmaking, mix, mastering) and I also casually play games.
+
+### Let's connect
+📩 - You can contact me @ karountzos.geo@gmail.com
