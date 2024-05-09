@@ -1,5 +1,5 @@
 # 👋 Hello there, I'm George 
-I'm passionate about software development and am currently pursuing my studies in Software Engineering through a program from Essex University. 🎓
+I'm passionate about software engineering and am currently pursuing my studies in Software Development through a program from Essex University. 🎓
 
 I believe in the power of continuous learning, and I'm always eager to expand my knowledge and skills. Whether it's learning new programming languages, exploring different frameworks, or diving into database management and queries, I'm up for the challenge! 💻
 
