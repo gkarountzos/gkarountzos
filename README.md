@@ -14,6 +14,7 @@ I’m currently expanding my knowledge of JavaScript and also diving deep into m
   * 🅱️ - Bootstrap
 * 🐘 - PHP
 * 📊 - SQL
+  * ⭕ - Data Modeler / SQL Developer (Oracle's tools)
   * ℹ️ - MySQL
   * 🗃️ - Microsoft Access
 * 🔵 - C#
