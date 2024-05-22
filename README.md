@@ -10,7 +10,6 @@ I’m currently expanding my knowledge of JavaScript and also diving deep into m
 
 ## Skillset
 * 💻 - HTML, CSS, JavaScript
-  * 🌊 - Tailwind CSS
   * 🅱️ - Bootstrap
 * 🐘 - PHP
 * 📊 - SQL
