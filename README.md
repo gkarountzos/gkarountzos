@@ -9,17 +9,16 @@ This is a space where I'll be sharing my projects, experiments, and learnings al
 I’m currently expanding my knowledge of JavaScript and also diving deep into modern JavaScript libraries like React, and its framework Next, Node.js, as well as exploring TypeScript for type-safe web development. I'm also looking into C# and .NET Framework
 
 ## Skillset
-* 💻 - Web
-  * HTML/CSS
-  * React
-  * Next
+* 🌐 - Web
+  * React.js
+  * Next.js
   * TypeScript
 * 📊 - SQL
   * ⭕ - Data Modeler / SQL Developer (Oracle's tools)
   * ℹ️ - MySQL
   * 🗃️ - Microsoft Access
 * 🔵 - C#
-  * 🌐 - .NET Framework
+  * 🪟 - .NET Framework
 
 ### More about me
 ⚡ Fun fact: In my free time I produce music(beatmaking, mix, mastering) and I also casually play games.
