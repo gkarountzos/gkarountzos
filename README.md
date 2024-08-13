@@ -10,7 +10,7 @@ I’m currently expanding my knowledge of JavaScript and also diving deep into m
 
 ## Skillset
 * 🌐 - Web
-  * React.js
+  * React
   * Next.js
   * TypeScript
 * 📊 - SQL
