@@ -10,9 +10,9 @@ I’m currently expanding my knowledge of JavaScript and also diving deep into m
 
 ## Skillset
 * 🌐 - Web
-  * React
   * Next.js
   * TypeScript
+  * React
 * 📊 - SQL
   * ⭕ - Data Modeler / SQL Developer (Oracle's tools)
   * ℹ️ - MySQL
