@@ -14,12 +14,10 @@ I’m currently expanding my knowledge of JavaScript and also diving deep into m
   * TypeScript
   * React
 * 📊 - SQL
-  * ⭕ - Data Modeler / SQL Developer (Oracle's tools)
-  * ℹ️ - MySQL
-  * 🗃️ - Microsoft Access
+  * ⭕ - Data Modeler / SQL Developer
+  * ℹ️ - MySQL / PostgreSQL / SQLite
 * 🔵 - C#
-  * 🪟 - .NET Framework
-
+  
 ### More about me
 ⚡ Fun fact: In my free time I produce music(beatmaking, mix, mastering) and I also casually play games.
 
